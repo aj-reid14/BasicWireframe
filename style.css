@@ -29,6 +29,15 @@ article {
     background: #777;
 }
 
+article:hover {
+    background: red;
+}
+
+section:hover {
+    background: black;
+    color: white;
+}
+
 .article_head {
     color: #ebebeb;
 }
